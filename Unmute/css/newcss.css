@@ -45,6 +45,7 @@ height:50px;
 .imageline1{
     margin-left: 0px;
     margin-right: auto;
+    display:flex;
 }
 
 #banner_image
